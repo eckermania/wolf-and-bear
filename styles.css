@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    font-family: 'Montserrat', sans-serif;
+}
+
+header img {
+    width: 20vw;
+    margin: 10vw 40vw;
+}
+
+header {
+    background-color:olive;
+}
+
+nav {
+    background-color: grey;
+    font-size: 2vw;
+    line-height: 1.5;
+    text-align: center;
+    vertical-align: middle;
+}
+
+nav ul {
+    display:flex;
+    justify-content: space-around;
+    padding-left: 10vw;
+    padding-right: 10vw;
+}
+
+nav img {
+    width: 3vw;
+    height: 3vw;
+}
